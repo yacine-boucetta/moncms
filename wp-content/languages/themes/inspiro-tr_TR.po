@@ -1,0 +1,1690 @@
+# Translation of Themes - Inspiro in Turkish
+# This file is distributed under the same license as the Themes - Inspiro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-30 11:49:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Inspiro\n"
+
+#. Description of the theme
+msgid "Inspiro is a professional & lightweight photo and video-focused WordPress theme with a modern design. Packed with features including a fullscreen area that supports Vimeo, YouTube & self-hosted video background, Page Builder integration, Inspiro is perfect for showing off your photography and video portfolio. Moreover, the theme is compatible with WooCommerce and popular Page Builders such as Elementor, Beaver Builder. Learn more and check out our powerful PREMIUM version at https://www.wpzoom.com/themes/inspiro/"
+msgstr "Inspiro modern tasarıma sahip, fotoğraf ve video odaklı, profesyonel ve hafif bir WordPress temasıdır. İçerdiği Vimeo, YouTube ve kendi barındırdığınız video arka planlarını göstermenizi sağlayan tam ekran gösterim alanı ve sayfa oluşturucusu entegrasyonları gibi özellikleri ile fotoğraf ve video portföyünüzü sergilemeniz için mükemmeldir. Dahası, bu tema WooCommerce ve Elementor, Beaver Builder gibi popüler sayfa oluşturucularla da uyumludur. https://www.wpzoom.com/themes/inspiro/ adresinden daha fazla bilgi alın ve güçlü PREMIUM sürümümüzü inceleyin."
+
+#. Theme Name of the theme
+msgid "Inspiro"
+msgstr "Inspiro"
+
+#: inc/theme-info-page.php:157
+msgid "Install Recommended Plugins &rarr;"
+msgstr "Tavsiye edilen eklentileri kur &rarr;"
+
+#: inc/theme-info-page.php:153
+msgid "Please install and activate recommended plugins to enable this features."
+msgstr "Bu özellikleri etkinleştirmek için lütfen tavsiye edilen eklentileri kurun ve etkinleştirin."
+
+#: inc/theme-info-page.php:135
+msgid "Import the Demo Content &rarr;"
+msgstr "Örnek içeriği içe aktar &rarr;"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:49
+msgid "Show Seach Icon"
+msgstr "Arama simgesini göster"
+
+#: inc/customizer/configs/header/class-inspiro-header-area-config.php:31
+msgid "Header Settings"
+msgstr "Üst kısım ayarları"
+
+#: inc/theme-info-page.php:131 inc/theme-info-page.php:150
+msgid "Importing demo data (post, pages, images, etc.) is the quickest and easiest way to set up your new theme. It allows you to simply edit everything instead of creating content and layouts from scratch."
+msgstr "Örnek verileri (yazılar, sayfalar, resimler vb.) içe aktarmak yeni temanızı oluşturmanın en hızlı ve kolay yoludur. Sıfırdan içerik ve sayfa düzeni oluşturmak yerine her şeyi kolayca düzenlemenize olanak sağlar."
+
+#: inc/theme-info-page.php:128 inc/theme-info-page.php:147
+msgid "Import the Demo Content"
+msgstr "Örnek içeriği içe aktar"
+
+#: inc/theme-info-page.php:239
+msgid "Elementor Integration"
+msgstr "Elementor entegrasyonu"
+
+#: inc/customizer/class-inspiro-customizer.php:233
+msgid "View Inspiro Premium"
+msgstr "Inspiro Premium'u görüntüle"
+
+#: inc/admin-notice.php:92 inc/customizer/class-inspiro-customizer.php:231
+#: inc/theme-info-page.php:314
+msgid "Upgrade to Inspiro Premium"
+msgstr "Inspiro Premium'a yükselt"
+
+#: inc/theme-info-page.php:306
+msgid "Open support forum in new tab"
+msgstr "Destek forumunu yeni sekmede aç"
+
+#: inc/theme-info-page.php:196
+msgid "Install Now"
+msgstr "Şimdi kur"
+
+#: inc/theme-info-page.php:194
+msgid "Theme zip file"
+msgstr "Tema zip dosyası"
+
+#: inc/theme-info-page.php:189
+msgid "If you have a premium version of Inspiro theme in a .zip format, you may upgrade by uploading it here."
+msgstr "Inspiro temasının premium sürümü .zip formatında sahipseniz karşıya yükleyerek yükseltebilirsiniz."
+
+#: inc/theme-info-page.php:186
+msgid "Upload Inspiro Premium"
+msgstr "Inspiro Premium'u yükle"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:33
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-media-config.php:66
+msgid "Make video iframe full height responsive to remove black borders from the top and bootom."
+msgstr "Üst ve alttaki siyah kenarlıkları kaldırmak için video çerçevesini tam yükseklikte duyarlı hale getirin."
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-media-config.php:65
+msgid "Full Height Responsive"
+msgstr "Tam yükseklikte duyarlı"
+
+#: inc/classes/class-inspiro-theme-upgrader.php:172
+msgid "Able to migrate"
+msgstr "Aktarım yapılabilir"
+
+#: inc/classes/class-inspiro-theme-upgrader.php:172
+msgid "Site URL"
+msgstr "Site adresi"
+
+#: inc/classes/class-inspiro-theme-upgrader.php:172
+msgid "Blogname"
+msgstr "Blog adı"
+
+#: inc/classes/class-inspiro-theme-upgrader.php:170
+msgid "Migrate settings for following blog site:"
+msgstr "Şu blog sitesi için ayarları aktarın:"
+
+#. translators: %1$s: Documentation URL. %2$s: Link title.
+#: inc/classes/class-inspiro-theme-upgrader.php:139
+msgid "Open documentation link in new tab"
+msgstr "Belgeleri yeni sekmede aç"
+
+#. translators: %1$s: Documentation URL. %2$s: Link title.
+#: inc/classes/class-inspiro-theme-upgrader.php:139
+msgid "If you don't see the header slider on your front page, please follow <a href=\"%1$s\" target=\"_blank\" title=\"%2$s\">documentation link</a> to see how to set up slideshow on front page."
+msgstr "Ön sayfada üst kısım kaydırıcısını görmüyorsanız, slayt gösterisinin nasıl ayarlanacağını öğrenmek için <a href=\"%1$s\" target=\"_blank\" title=\"%2$s\">bu belge bağlantısını</a> takip edin."
+
+#. translators: %1$s: Documentation URL. %2$s: Link title.
+#: inc/classes/class-inspiro-theme-upgrader.php:139
+msgid "Note:"
+msgstr "Not:"
+
+#: inc/classes/class-inspiro-theme-upgrader.php:137
+msgid "After the upgrade all the settings will be kept but we still recommend that you make a backup of the database and files before proceeding to the replace process."
+msgstr "Yükseltmeden sonra tüm ayarlarınız korunacaktır, fakat yine de değiştirme işlemine devam etmeden önce veritabanınızın ve dosyalarınızın yedeğini almanızı tavsiye ederiz."
+
+#: inc/classes/class-inspiro-theme-upgrader.php:136
+msgid "It seems you want to upgrade to premium version of the Inspiro WordPress Theme."
+msgstr "Görünüşe göre Inspiro WordPress Teması'nı premium sürüme yükseltmek istiyorsunuz."
+
+#: inc/classes/class-inspiro-theme-upgrader.php:105
+msgid "Create temporary custom post type Slider"
+msgstr "Geçici özel yazı tipi kaydırıcısı oluşturun"
+
+#: inc/classes/class-inspiro-theme-upgrader.php:104
+msgid "Something went wrong to create new slider item!"
+msgstr "Yeni kaydırıcı öğesi oluştururken bir şeyler ters gitti!"
+
+#. translators: %s: New slide title
+#: inc/classes/class-inspiro-theme-upgrader.php:103
+msgid "Setup new slider item with title: <strong>%s</strong>"
+msgstr " <strong>%s</strong> başlığına sahip yeni bir kaydırıcı öğesi oluşturun."
+
+#: inc/classes/class-inspiro-theme-upgrader.php:101
+msgid "Migrate Customizer Settings to Inspiro Premium"
+msgstr "Özelleştirici ayarlarını Inspiro Premium'a aktarın"
+
+#: inc/common-functions.php:443
+msgid "Full-width section"
+msgstr "Tam genişlikte bölüm"
+
+#: inc/common-functions.php:434 inc/common-functions.php:444
+msgctxt "Block pattern description"
+msgid "A call to action with a beautiful two-column gallery below."
+msgstr "Aşağıdaki güzel çift sütun galeri ile harekete geçirici mesaj."
+
+#: inc/common-functions.php:433
+msgid "Homepage"
+msgstr "Ana sayfa"
+
+#: inc/common-functions.php:417
+msgctxt "Block pattern category"
+msgid "Inspiro"
+msgstr "Inspiro"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:85
+msgid "Mobile Menu"
+msgstr "Mobil menü"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:32
+msgid "Heading 2"
+msgstr "Başlık 2"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:33
+msgid "Body"
+msgstr "Vücut"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:32
+msgid "Heading 4"
+msgstr "Başlık 4"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:32
+msgid "Heading 6"
+msgstr "Başlık 6"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:32
+msgid "Heading 1"
+msgstr "Başlık 1"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-panel-config.php:33
+msgid "Typography"
+msgstr "Tipografi"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:85
+msgid "Header Button"
+msgstr "Üst kısım düğmesi"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:33
+msgid "Menu"
+msgstr "Menü"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:33
+msgid "Homepage Hero Header"
+msgstr "Ana sayfa üst kısım manşet içeriği"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:105
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:105
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:112
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:112
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:105
+msgid "Only selected Font Variants will be loaded from Google Fonts."
+msgstr "Google Fonts'dan sadece seçilen yazı tipi varyantları yüklenecektir."
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:94
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:104
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:104
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:111
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:111
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:104
+msgid "Variants"
+msgstr "Varyantlar"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:92
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:84
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:94
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:94
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:92
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:94
+msgid "Font Family"
+msgstr "Yazı tipi"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:33
+msgid "Headings"
+msgstr "Başlıklar"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:32
+msgid "Heading 3"
+msgstr "Başlık 3"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:153
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:132
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:155
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:155
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:162
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:153
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:162
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:155
+msgid "Line Height"
+msgstr "Satır yüksekliği"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:145
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:124
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:147
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:147
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:154
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:145
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:154
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:147
+msgid "Lowercase"
+msgstr "Küçük harf"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:144
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:102
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:123
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:146
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:146
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:153
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:144
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:153
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:146
+msgid "Uppercase"
+msgstr "Büyük harf"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:143
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:101
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:122
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:145
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:145
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:152
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:143
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:152
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:145
+msgid "Capitalize"
+msgstr "Baş harfleri büyüt"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:142
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:100
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:100
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:100
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:100
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:100
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:100
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:121
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:144
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:144
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:151
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:142
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:151
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:144
+msgctxt "text transform"
+msgid "None"
+msgstr "Hiç biri"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:141
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:120
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:143
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:143
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:150
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:141
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:150
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:143
+msgctxt "text transform"
+msgid "Inherit"
+msgstr "Devral"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:137
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:95
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:116
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:139
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:139
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:146
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:137
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:146
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:139
+msgid "Text Transform"
+msgstr "Metin dönüşümü"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:124
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:76
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:76
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:76
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:76
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:76
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:76
+#: inc/customizer/configs/typography/class-inspiro-typo-headings-config.php:103
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:126
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:126
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:133
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:124
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:133
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:126
+msgid "Font Weight"
+msgstr "Yazı tipi kalınlığı"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-body-config.php:112
+#: inc/customizer/configs/typography/class-inspiro-typo-h1-config.php:53
+#: inc/customizer/configs/typography/class-inspiro-typo-h2-config.php:53
+#: inc/customizer/configs/typography/class-inspiro-typo-h3-config.php:53
+#: inc/customizer/configs/typography/class-inspiro-typo-h4-config.php:53
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:53
+#: inc/customizer/configs/typography/class-inspiro-typo-h6-config.php:53
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-button-config.php:114
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:114
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:121
+#: inc/customizer/configs/typography/class-inspiro-typo-logo-config.php:112
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:121
+#: inc/customizer/configs/typography/class-inspiro-typo-mobile-menu-config.php:114
+msgid "Font Size (px)"
+msgstr "Yazı tipi boyutu (px)"
+
+#: inc/customizer/configs/typography/class-inspiro-typo-h5-config.php:32
+msgid "Heading 5"
+msgstr "Başlık 5"
+
+#: inc/customizer/custom-controls/font-presets/class-inspiro-customize-font-presets-control.php:41
+msgid "View Presets"
+msgstr "Ön tanımları göster"
+
+#: inc/customizer/custom-controls/font-presets/class-inspiro-customize-font-presets-control.php:36
+msgid "Choosing a preset will override all the font settings."
+msgstr "Bir ön tanım seçmek tüm yazı tipi ayarlarını geçersiz kılacaktır."
+
+#: inc/customizer/custom-controls/font-presets/class-inspiro-customize-font-presets-control.php:35
+msgid "Presets"
+msgstr "Ön tanımlar"
+
+#: inc/customizer/class-inspiro-customizer.php:407
+msgid "System Fonts"
+msgstr "Sistem yazı tipleri"
+
+#: inc/customizer/class-inspiro-customizer.php:406
+msgid "Default System Font"
+msgstr "Varsayılan sistem yazı tipleri"
+
+#: inc/classes/class-inspiro-font-family-manager.php:186
+#: inc/customizer/class-inspiro-customizer.php:387
+#: inc/customizer/custom-controls/font-variant/class-inspiro-customize-font-variant-control.php:88
+#: inc/customizer/custom-controls/typography/class-inspiro-customize-typography-control.php:104
+msgid "Inherit"
+msgstr "Devral"
+
+#: inc/classes/class-inspiro-font-family-manager.php:170
+msgid "900 Italic"
+msgstr "900 italik"
+
+#: inc/classes/class-inspiro-font-family-manager.php:169
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/classes/class-inspiro-font-family-manager.php:168
+msgid "800 Italic"
+msgstr "800 italik"
+
+#: inc/classes/class-inspiro-font-family-manager.php:167
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/classes/class-inspiro-font-family-manager.php:166
+msgid "700 Italic"
+msgstr "700 italik"
+
+#: inc/classes/class-inspiro-font-family-manager.php:165
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/classes/class-inspiro-font-family-manager.php:164
+msgid "600 Italic"
+msgstr "600 Italik"
+
+#: inc/classes/class-inspiro-font-family-manager.php:163
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/classes/class-inspiro-font-family-manager.php:162
+msgid "500 Italic"
+msgstr "500 Italik"
+
+#: inc/classes/class-inspiro-font-family-manager.php:161
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/classes/class-inspiro-font-family-manager.php:160
+msgid "400 Italic"
+msgstr "400 Italik"
+
+#: inc/classes/class-inspiro-font-family-manager.php:159
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/classes/class-inspiro-font-family-manager.php:158
+msgid "300 Italic"
+msgstr "300 Italik"
+
+#: inc/classes/class-inspiro-font-family-manager.php:157
+msgid "Light 300"
+msgstr "Hafif 300"
+
+#: inc/classes/class-inspiro-font-family-manager.php:156
+msgid "200 Italic"
+msgstr "200 italik"
+
+#: inc/classes/class-inspiro-font-family-manager.php:155
+msgid "Extra-Light 200"
+msgstr "Ekstra-hafif 200"
+
+#: inc/classes/class-inspiro-font-family-manager.php:154
+msgid "100 Italic"
+msgstr "100 İtalik"
+
+#: inc/classes/class-inspiro-font-family-manager.php:153
+msgid "Thin 100"
+msgstr "İnce 100"
+
+#: inc/starter-content.php:50
+msgctxt "Theme starter content"
+msgid "Beautiful portfolios for exceptional creatives"
+msgstr "Olağanüstü tasarımlar için güzel portföyler"
+
+#: inc/custom-header.php:60
+msgid "Forest"
+msgstr "Orman"
+
+#. translators: %1$s: Comment date %2$s: Comment time
+#: inc/common-functions.php:313
+msgid "%1$s @ %2$s"
+msgstr "%1$s @ %2$s"
+
+#. translators: %s: Inspiro Lite theme
+#: inc/theme-info-page.php:49
+msgid "Welcome to %s"
+msgstr "%s temasına hoş geldiniz"
+
+#. translators: %s: WordPress Version.
+#. translators: %s: WordPress Version.
+#. translators: %s: WordPress Version.
+#: inc/back-compat.php:42 inc/back-compat.php:61 inc/back-compat.php:86
+msgid "This theme requires WordPress 5.3 or newer. You are running version %s. Please upgrade."
+msgstr "Bu tema için WordPress 5.3 veya daha yeni bir sürümü gereklidir. Sizin sürümünüz %s. Lütfen yükseltin."
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:133
+msgid "Open link on new tab"
+msgstr "Bağlantıyı yeni sekmede aç"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:123
+msgid "Enter a Button URL:"
+msgstr "Bir düğme URL'si girin"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:122
+msgid "Header Button URL"
+msgstr "Üst kısım düğme URL'si"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:112
+msgid "Enter a title for Header Button"
+msgstr "Üst kısım düğmesi için bir başlık girin"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:111
+msgid "Header Button Title"
+msgstr "Üst kısım düğme başlığı"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-media-config.php:31
+msgid "Media"
+msgstr "Ortam dosyası"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:81
+msgid "Header Button Background Color Hover"
+msgstr "Üst kısım düğmesi art alan vurgu rengi"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:73
+msgid "Header Button Text Color Hover"
+msgstr "Üst kısım düğmesi metin vurgu rengi"
+
+#: inc/customizer/configs/colors/class-inspiro-header-button-color-config.php:65
+msgid "Header Button Text Color"
+msgstr "Üst kısım düğmesi metin rengi"
+
+#: inc/classes/class-inspiro-notice-review.php:93
+msgid "Hide this notice"
+msgstr "Bu bildirimi gizle"
+
+#: inc/classes/class-inspiro-notice-review.php:92
+msgid "Add a Rating for Inspiro"
+msgstr "Inspiro için değerlendirme ekle"
+
+#. Translators: %1$s current user display name.
+#: inc/classes/class-inspiro-notice-review.php:79
+msgid "Dear %1$s! We hope you are happy with everything that the %2$s has to offer. %3$sIf you can spare a moment, please consider adding a rating for %4$s on WordPress.org. %3$sIt helps us continue providing updates and support for this theme."
+msgstr "Sevgili %1$s! %2$s 'nun size sunduğu her şeyden memnun olduğunuzu umuyoruz. %3$sÇok kısa zaman ayırabilirseniz lütfen WordPress.org'da %4$s için bir değerlendirme yapmayı düşünün. %3$sBu, tema için güncelleme ve destek sağlamayı devam ettirmemiz için yardımcı olacaktır."
+
+#: inc/classes/class-inspiro-notice-review.php:71
+msgid "inspiro"
+msgstr "inspiro"
+
+#: inc/classes/class-inspiro-notices.php:130
+msgid "Cheatin&#8217; huh?"
+msgstr "Hile yapan biri mi var?"
+
+#: inc/admin-notice.php:91 inc/theme-info-page.php:115
+msgid "https://www.wpzoom.com/themes/inspiro/"
+msgstr "https://www.wpzoom.com/themes/inspiro/"
+
+#. translators: %s: Inspiro theme
+#. translators: %s: Inspiro Lite theme
+#: inc/admin-notice.php:88 inc/theme-info-page.php:79
+msgid "Get Started with %s"
+msgstr "%s kullanmaya başlayın"
+
+#. translators: %1$s: Inspiro theme %2$s: anchor tag open %3$s: anchor tag
+#. close
+#: inc/admin-notice.php:81
+msgid "Thank you for using %1$s! To get started please make sure you visit our %2$swelcome page%3$s."
+msgstr "%1$s kullandığınız için teşekkür ederiz! Başlangıç için lütfen %2$shoşgeldiniz sayfamızı%3$s ziyaret edin."
+
+#: inc/admin-notice.php:75
+msgid "Dismiss this notice."
+msgstr "Bu mesajı gizle."
+
+#: inc/admin-notice.php:54
+msgid "You do not have the necessary permission to perform this action."
+msgstr "Bu eylemi gerçekleştirmek için gerekli izne sahip değilsiniz."
+
+#: inc/admin-notice.php:50 inc/classes/class-inspiro-notices.php:126
+msgid "Action failed. Please refresh the page and retry."
+msgstr "İşlem başarısız. Lütfen sayfayı yenileyin ve tekrar deneyin."
+
+#: inc/theme-info-page.php:307
+msgid "Fast & Friendly Email Support"
+msgstr "Eposta ile hızlı ve kolay destek"
+
+#: inc/theme-info-page.php:305
+msgid "Support"
+msgstr "Destek"
+
+#: inc/theme-info-page.php:300
+msgid "Typography Options"
+msgstr "Tipgrafi seçenekleri"
+
+#: inc/theme-info-page.php:295
+msgid "600+ Google Fonts"
+msgstr "600+ Google Fonts"
+
+#: inc/theme-info-page.php:290
+msgid "Theme Options"
+msgstr "Tema seçenekleri"
+
+#: inc/theme-info-page.php:285
+msgid "Multiple Posts Layouts"
+msgstr "Çoklu yazı düzenleri"
+
+#: inc/theme-info-page.php:280
+msgid "Video & Image Lightbox for Portfolio Posts"
+msgstr "Portföy yazıları için Video & görsel açılır kutusu"
+
+#: inc/theme-info-page.php:275
+msgid "Video Headers in Pages & Posts"
+msgstr "Sayfalar ve yazılarda videolu üst kısımlar"
+
+#: inc/theme-info-page.php:270
+msgid "Video Backgrounds"
+msgstr "Vide arka planları"
+
+#: inc/theme-info-page.php:265
+msgid "Predefined Style Kits"
+msgstr "Ön tanımlı stil kitleri"
+
+#: inc/theme-info-page.php:260
+msgid "Video Features"
+msgstr "Video özellikleri"
+
+#: inc/theme-info-page.php:255
+msgid "Portfolio Integration"
+msgstr "Portföy entegrasyonu"
+
+#: inc/theme-info-page.php:250
+msgid "9 Demos"
+msgstr "9 örnek"
+
+#: inc/theme-info-page.php:244
+msgid "Demo Content Importer"
+msgstr "Örnek içerik içe aktarıcı"
+
+#: inc/theme-info-page.php:234
+msgid "Advanced WooCommerce Integration"
+msgstr "Gelişmiş WooCommerce entegrasyonu"
+
+#: inc/theme-info-page.php:229
+msgid "Fullscreen Slideshow on Homepage"
+msgstr "Ana sayfada tam ekran slayt gösterisi"
+
+#: inc/theme-info-page.php:224
+msgid "Live Customizer"
+msgstr "Canlı özelleştirici"
+
+#: inc/theme-info-page.php:219
+msgid "Responsive Layout"
+msgstr "Duyarlı düzen"
+
+#: inc/theme-info-page.php:109 inc/theme-info-page.php:214
+msgid "Inspiro Premium"
+msgstr "Inspiro Premium"
+
+#: inc/theme-info-page.php:213
+msgid "Inspiro Lite"
+msgstr "Inspiro Lite"
+
+#: inc/theme-info-page.php:212
+msgid "Features"
+msgstr "Özellikler"
+
+#: inc/theme-info-page.php:207
+msgid "Inspiro Lite vs. Inspiro Premium"
+msgstr "Inspiro Lite ve Inspiro Premium karşılaştırması"
+
+#: inc/theme-info-page.php:176
+msgid "View Inspiro Premium Demo &rarr;"
+msgstr "Inspiro Premium örneğini görün &rarr;"
+
+#: inc/theme-info-page.php:175
+msgid "https://demo.wpzoom.com/?theme=inspiro"
+msgstr "https://demo.wpzoom.com/?theme=inspiro"
+
+#: inc/theme-info-page.php:172
+msgid "Upgrading to Inspiro Premium you will unlock a dozen of unique features that will take your website to the next level. See in the table below just a few of the features included in the Premium version."
+msgstr "Inspiro Premium'a yükselterek web sitenizi sonraki seviyeye taşıyacak bir düzine özelliği açacaktır. Premium sürümde yer alan özelliklerin küçük bir bölümünü aşağıdaki tabloda görebilirsiniz."
+
+#: inc/theme-info-page.php:169
+msgid "Why Upgrade?"
+msgstr "Neden yükseltmeli?"
+
+#: inc/theme-info-page.php:116
+msgid "Upgrade to Inspiro Premium &rarr;"
+msgstr "Inspiro Premium'a yükselt &rarr;"
+
+#: inc/theme-info-page.php:112
+msgid "If you like the free version of this theme, you will LOVE the full version of Inspiro which includes numerous video features, portfolio integration, additional features and more useful options to customize your website."
+msgstr "Temanın ücretsiz sürümünü beğendiyseniz, tam sürümde yer alan çok sayıda video özelliği, portföy entegrasyonu, ek özellikler ve web sitenizi özelleştirmenizi sağlayacak seçeneklere AŞIK olacaksınız."
+
+#: inc/theme-info-page.php:100 inc/theme-info-page.php:306
+msgid "Support Forum"
+msgstr "Destek forumu"
+
+#. translators: %s: Inspiro theme
+#: inc/theme-info-page.php:92
+msgid "Need help configuring %s? Lite In the documentation you can find all theme related information that is needed to get your site up and running in no time."
+msgstr "%s yapılandırması için yardıma mı ihtiyacınız var? Sitenizi kısa sürede çalışır duruma getirmek için gereken temayla ilgili tüm bilgileri belgelerde bulabilirsiniz."
+
+#: inc/theme-info-page.php:87 inc/theme-info-page.php:97
+msgid "Theme Documentation"
+msgstr "Tema belgeleri"
+
+#: inc/theme-info-page.php:66
+msgid "Inspiro Showcase"
+msgstr "Inspiro vitrini"
+
+#: inc/theme-info-page.php:64
+msgid "Documentation"
+msgstr "Belgeler"
+
+#: inc/theme-info-page.php:62
+msgid "Get Inspiro Premium &rarr;"
+msgstr "Inspiro Premium'u edinin &rarr;"
+
+#: inc/theme-info-page.php:57
+msgid "Looking for more features, like portfolio integration and video background? Then you should definitely check the Premium version."
+msgstr "Portföy entegrasyonu ve video arka planı gibi daha fazla özelliğe mi ihtiyacınız var? O halde kesinlikle premium sürümü incelemelisiniz."
+
+#: inc/theme-info-page.php:54
+msgid "Inspiro is a professional photo and video-focused theme with a modern design. Packed with features including a fullscreen area that supports Vimeo & self-hosted videos in the background, Page Builder integration, Inspiro is perfect for showing off your portfolio, images, and videos."
+msgstr "Inspiro fotoğraf ve video odaklı, profesyonel ve modern tasarımlı bir temadır. Inspiro, arka planda Vimeo veya kendi barındırdığınız videoları destekleyen tam ekran alanı ve sayfa oluşturucu entegrasyonu ile portföy, görsel ve videolarınızı sergilemeniz için mükemmel seçimdir."
+
+#: inc/theme-info-page.php:42
+msgid "Theme Screenshot"
+msgstr "Tema ekran görüntüsü"
+
+#: inc/theme-info-page.php:22
+msgid "About Inspiro"
+msgstr "Inspiro hakkında"
+
+#: inc/theme-info-page.php:21
+msgid "Welcome to Inspiro Theme"
+msgstr "Inspiro temasını hoşgeldiniz."
+
+#: inc/customizer/class-inspiro-customizer.php:232
+msgid "Unlock premium features: 7 Style Kits, Video Backgrounds, Portfolio Integration, Premium Support and much more..."
+msgstr "Premium özelliklerin kilidini açın: 7 stil kiti, video arka planlar, portföy entegrasyonu, premium destek ve daha fazlası..."
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-panel-config.php:32
+msgid "Homepage Media"
+msgstr "Ana sayfa medyası"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3534
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s kuruluyor (%2$d/%3$d)"
+
+#: inc/classes/class-tgm-plugin-activation.php:3532
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlandı."
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3531
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla kuruldu."
+
+#: inc/classes/class-tgm-plugin-activation.php:3529
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum süreci başlıyor. Bu işlem bazı sunucularda uzun sürebilir, bu yüzden sabırlı olunuz."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3526
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s eklentisi kuruluyor ve etkinleştiriliyor (%2$d/%3$d)"
+
+#: inc/classes/class-tgm-plugin-activation.php:3524
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulum ve etkinleştirmeler tamamlandı."
+
+#. translators: 1: plugin name.
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3523
+#: inc/classes/class-tgm-plugin-activation.php:3531
+msgid "Hide Details"
+msgstr "Detayları gizle"
+
+#. translators: 1: plugin name.
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3523
+#: inc/classes/class-tgm-plugin-activation.php:3531
+msgid "Show Details"
+msgstr "Detayları göster"
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3523
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarıyla kuruldu ve etkinleştirildi."
+
+#: inc/classes/class-tgm-plugin-activation.php:3521
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum ve etkinleştirme süreci başlıyor. Bu işlem bazı sunucularda uzun sürebilir, lütfen sabırlı olun."
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3517
+msgid "The installation of %1$s failed."
+msgstr "%1$s kurulumu başarısız oldu."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/classes/class-tgm-plugin-activation.php:3515
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s kurulurken bir hata oluştu: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3512
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s eklentisi güncelleniyor (%2$d/%3$d)"
+
+#: inc/classes/class-tgm-plugin-activation.php:3169
+msgid "Plugin activation failed."
+msgstr "Eklenti etkinleştirmesi başarısız oldu."
+
+#: inc/classes/class-tgm-plugin-activation.php:2945
+msgid "No plugins are available to be activated at this time."
+msgstr "Şu an etkinleştirilmesi gereken bir eklenti mevcut değil."
+
+#: inc/classes/class-tgm-plugin-activation.php:2919
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Etkinleştirilecek bir eklenti seçilmedi. Herhangi bir işlem yapılmadı."
+
+#: inc/classes/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be updated at this time."
+msgstr "Şu an güncellenmesi gereken bir eklenti yok."
+
+#: inc/classes/class-tgm-plugin-activation.php:2812
+msgid "No plugins are available to be installed at this time."
+msgstr "Şu an kurulabilecek eklenti yok."
+
+#: inc/classes/class-tgm-plugin-activation.php:2771
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Güncellenecek bir eklenti seçilmedi. Herhangi bir işlem yapılmadı."
+
+#: inc/classes/class-tgm-plugin-activation.php:2769
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Kurulacak bir eklenti seçilmedi. Herhangi bir işlem yapılmadı."
+
+#: inc/classes/class-tgm-plugin-activation.php:2739
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/classes/class-tgm-plugin-activation.php:2736
+msgid "Update"
+msgstr "Güncelle"
+
+#: inc/classes/class-tgm-plugin-activation.php:2730
+msgid "Install"
+msgstr "Kur"
+
+#: inc/classes/class-tgm-plugin-activation.php:2698
+msgid "Upgrade message from the plugin author:"
+msgstr "Eklenti geliştiricisinden yükseltme mesajı:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2628
+msgid "Activate %2$s"
+msgstr "%2$s etkinleştir"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2622
+msgid "Update %2$s"
+msgstr "%2$s güncelle"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2617
+msgid "Install %2$s"
+msgstr "%2$s kur"
+
+#: inc/classes/class-tgm-plugin-activation.php:2568
+msgid "Status"
+msgstr "Durum"
+
+#: inc/classes/class-tgm-plugin-activation.php:2567
+msgid "Version"
+msgstr "Sürüm"
+
+#: inc/classes/class-tgm-plugin-activation.php:2563
+msgid "Type"
+msgstr "Tip"
+
+#: inc/classes/class-tgm-plugin-activation.php:2562
+msgid "Source"
+msgstr "Kaynak"
+
+#: inc/classes/class-tgm-plugin-activation.php:2561
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: inc/classes/class-tgm-plugin-activation.php:2547
+msgid "No plugins to install, update or activate."
+msgstr "Kurulacak, güncellenecek veya etkinleştirilecek bir eklenti yok."
+
+#: inc/classes/class-tgm-plugin-activation.php:2524
+msgid "Available version:"
+msgstr "Mevcut sürüm:"
+
+#: inc/classes/class-tgm-plugin-activation.php:2512
+msgid "Minimum required version:"
+msgstr "Gereken en düşük sürüm:"
+
+#: inc/classes/class-tgm-plugin-activation.php:2504
+msgid "Installed version:"
+msgstr "Kurulu sürüm:"
+
+#: inc/classes/class-tgm-plugin-activation.php:2496
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "bilinmeyen"
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2415
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+msgstr[1] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2411
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Güncelleme var <span class=\"count\">(%s)</span>"
+msgstr[1] "Güncelleme var <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2407
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Kurulacak <span class=\"count\">(%s)</span>"
+msgstr[1] "Kurulacak <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2403
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tümü <span class=\"count\">(%s)</span>"
+msgstr[1] "Tümü <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/classes/class-tgm-plugin-activation.php:2357
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/classes/class-tgm-plugin-activation.php:2348
+msgid "Update recommended"
+msgstr "Güncelleme önerilir"
+
+#: inc/classes/class-tgm-plugin-activation.php:2346
+msgid "Requires Update"
+msgstr "Güncelleme gerekiyor"
+
+#: inc/classes/class-tgm-plugin-activation.php:2344
+msgid "Required Update not Available"
+msgstr "Gerekli güncelleme mevcut değil"
+
+#: inc/classes/class-tgm-plugin-activation.php:2338
+msgid "Active"
+msgstr "Etkinleştir"
+
+#: inc/classes/class-tgm-plugin-activation.php:2336
+msgid "Installed But Not Activated"
+msgstr "Kurulmuş ancak etkinleştirilmemiş "
+
+#: inc/classes/class-tgm-plugin-activation.php:2332
+msgid "Not Installed"
+msgstr "Kurulmamış"
+
+#: inc/classes/class-tgm-plugin-activation.php:2315
+msgid "Pre-Packaged"
+msgstr "Önceden paketlenmiş"
+
+#: inc/classes/class-tgm-plugin-activation.php:2312
+msgid "External Source"
+msgstr "Harici kaynak"
+
+#: inc/classes/class-tgm-plugin-activation.php:2309
+msgid "WordPress Repository"
+msgstr "WordPress dizini"
+
+#: inc/classes/class-tgm-plugin-activation.php:2293
+msgid "Recommended"
+msgstr "Önerilen"
+
+#: inc/classes/class-tgm-plugin-activation.php:2290
+msgid "Required"
+msgstr "Gerekli"
+
+#. translators: %s: version number
+#: inc/classes/class-tgm-plugin-activation.php:1999
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/classes/class-tgm-plugin-activation.php:1133
+#: inc/classes/class-tgm-plugin-activation.php:2959
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ve"
+
+#: inc/classes/class-tgm-plugin-activation.php:945
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Uzak eklenti paketi birden fazla dosyadan oluşuyor, ama bu dosyalar bir klasörde paketli değil."
+
+#: inc/classes/class-tgm-plugin-activation.php:935
+#: inc/classes/class-tgm-plugin-activation.php:945
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Lütfen eklenti sağlayıcıyla iletişime geçerek, eklenti paketini WordPress kurallarına göre oluşturmasını talep edin."
+
+#: inc/classes/class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Uzaktaki eklenti paketi olması gereken kısa isimle bir klasör içermiyor ve isim değiştirme işe yaramadı."
+
+#: inc/classes/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Güncelleme gerekiyor"
+
+#: inc/classes/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Bu eklentinin temanızla uyumlu olması için güncellenmesi gerekiyor."
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Yardım için lütfen bu sitenin yöneticisi ile iletişime geçin."
+
+#: inc/classes/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Kurulması, güncellenmesi veya etkinleştirilmesi gereken veya önerilen bir ya da daha fazla eklenti var."
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Bu bildirimi yoksay"
+
+#. translators: 1: dashboard link.
+#: inc/classes/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla kuruldu ve etkinleştirildi. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Eklenti etkinleştirilmedi. Bu tema için %s eklentisinin daha yeni bir sürümü gerekiyor. Lütfen eklentiyi güncelleyin."
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Hiç bir işlem yapılmadı. %1$s eklentisi zaten etkin."
+
+#: inc/classes/class-tgm-plugin-activation.php:388
+#: inc/classes/class-tgm-plugin-activation.php:2963
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Aşağıdaki eklenti başarıyla etkinleştirildi:"
+msgstr[1] "Aşağıdaki eklentiler başarıyla etkinleştirildi:"
+
+#: inc/classes/class-tgm-plugin-activation.php:387
+#: inc/classes/class-tgm-plugin-activation.php:3170
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: inc/classes/class-tgm-plugin-activation.php:386
+#: inc/classes/class-tgm-plugin-activation.php:826
+#: inc/classes/class-tgm-plugin-activation.php:2547
+#: inc/classes/class-tgm-plugin-activation.php:3594
+msgid "Return to the Dashboard"
+msgstr "Başlangıca dön"
+
+#: inc/classes/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Gereken eklentiler yükleyicisine geri dön"
+
+#: inc/classes/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklentiyi etkinleştirmeye başlayın"
+msgstr[1] "Eklentileri etkinleştirmeye başlayın"
+
+#: inc/classes/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Eklentiyi güncellemeye başlayın"
+msgstr[1] "Eklentileri güncellemeye başlayın"
+
+#: inc/classes/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklenti kurulumuna başlayın"
+msgstr[1] "Eklentilerin kurulumuna başlayın"
+
+#. translators: 1: plugin name(s).
+#: inc/classes/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Önerilen şu eklenti etkin değil:%1$s."
+msgstr[1] "Önerilen şu eklentiler etkin değil:%1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/classes/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Gerekli şu eklenti etkin değil: %1$s."
+msgstr[1] "Gerekli şu eklentiler etkin değil: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/classes/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Şu eklenti için bir güncelleme var: %1$s"
+msgstr[1] "Şu eklentiler için güncellemeler var: %1$s"
+
+#. translators: 1: plugin name(s).
+#: inc/classes/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Bu temayla en yüksek uyumluluğu sağlamak için şu eklentinin en son sürümüne güncellenmesi gerekiyor: %1$s."
+msgstr[1] "Bu temayla en yüksek uyumluluğu sağlamak için şu eklentilerin en son sürümüne güncellenmesi gerekiyor: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/classes/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema şu eklentiyi önermektedir: %1$s."
+msgstr[1] "Bu tema şu eklentileri önermektedir: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/classes/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema için şu eklenti gereklidir  : %1$s."
+msgstr[1] "Bu tema için şu eklentiler gereklidir  : %1$s."
+
+#: inc/classes/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'siyle ilgili bir şeyler yanlış gitti."
+
+#. translators: %s: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Eklenti güncelleniyor: %s"
+
+#. translators: %s: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Eklenti kuruluyor: %s"
+
+#: inc/classes/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Eklentileri kur"
+
+#: inc/classes/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Gerekli eklentileri kur"
+
+#: index.php:27
+msgid "Latest Posts"
+msgstr "Son yazılar"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: inc/custom-header.php:147
+msgid "Pause background video"
+msgstr "Arka plan videosunu duraklat"
+
+#: inc/custom-header.php:146
+msgid "Play background video"
+msgstr "Arka plan videosunu oynat"
+
+#: inc/custom-header.php:55
+msgid "Default Header Image"
+msgstr "Varsayılan üst kısım görseli"
+
+#: inc/starter-content.php:162
+msgctxt "Theme starter content"
+msgid "Aerial Land"
+msgstr "Aerial Land"
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:226
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\"> \"%s\"</span> yazısını düzenle"
+
+#: inc/template-tags.php:201
+msgid "Written by"
+msgstr "Yazan:"
+
+#: inc/template-tags.php:199
+msgid "Post author"
+msgstr "Yazar"
+
+#: inc/template-tags.php:192
+msgid "Tags"
+msgstr "Etiketler"
+
+#. translators: %s: Post date.
+#. translators: %s: Post date.
+#: inc/template-tags.php:168 inc/template-tags.php:176
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Yayımlanma tarihi</span> %s"
+
+#: inc/template-tags.php:138
+msgid "Comments are Disabled"
+msgstr "Yorumlar kapalı"
+
+#: inc/template-tags.php:136
+msgid "% comments"
+msgstr "% yorum"
+
+#: inc/template-tags.php:135
+msgid "1 comment"
+msgstr "1 yorum"
+
+#: inc/template-tags.php:134
+msgid "0 comments"
+msgstr "0 yorum"
+
+#: inc/template-tags.php:120
+msgid "by"
+msgstr "yazan"
+
+#: inc/template-tags.php:37
+msgid "on"
+msgstr "açık"
+
+#: inc/template-tags.php:28
+msgid "in"
+msgstr "kategorisi"
+
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:20 inc/template-tags.php:70
+msgid ", "
+msgstr ", "
+
+#: inc/customizer/configs/blog-post/class-inspiro-post-options-config.php:53
+msgid "None"
+msgstr "Hiç biri"
+
+#: inc/customizer/configs/blog-post/class-inspiro-post-options-config.php:52
+msgid "Full Content"
+msgstr "İçeriğin tamamı"
+
+#: inc/customizer/configs/blog-post/class-inspiro-post-options-config.php:51
+msgid "Excerpt"
+msgstr "Özet"
+
+#: inc/customizer/configs/blog-post/class-inspiro-post-options-config.php:47
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:31
+msgid "Content"
+msgstr "İçerik"
+
+#: inc/customizer/configs/blog-post/class-inspiro-post-options-config.php:31
+msgid "Post Options"
+msgstr "Yazı seçenekleri"
+
+#: inc/customizer/configs/blog-post/class-inspiro-blog-post-panel-config.php:33
+msgid "Blog Post Options"
+msgstr "Blog yazısı seçenekleri"
+
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:72
+msgid "Single Post Layout"
+msgstr "Tekil yazı yerleşimi"
+
+#: inc/customizer-functions.php:17
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:64
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:77
+msgid "Sidebar on the right"
+msgstr "Sağda yan menü"
+
+#: inc/customizer-functions.php:16
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:63
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:76
+msgid "Full width"
+msgstr "Tam genişlik"
+
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:59
+msgid "Blog Layout"
+msgstr "Blog yerleşimi"
+
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:32
+msgid "If you want to display \"Sidebar on the right\", please make sure you have added some widgets to %s"
+msgstr "\"Sağda yan menü\" görüntülenmesini istiyorsanız, lütfen %s 'e bileşen eklediğinizden emin olun"
+
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:31
+msgid "Theme Layout"
+msgstr "Tema düzeni"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:54
+msgid "Four Columns"
+msgstr "Dört sütun"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:53
+msgid "Three Columns"
+msgstr "Üç sütun"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:52
+msgid "Two Columns"
+msgstr "İki sütun"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:51
+msgid "One Column"
+msgstr "Bir sütun"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:50
+msgid "Don't display Widgets"
+msgstr "Bileşenleri gösterme"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:46
+msgid "Number of Widget Areas"
+msgstr "Bileşen alanı sayısı"
+
+#: inc/customizer/configs/colors/class-inspiro-color-scheme-config.php:55
+msgid "Custom"
+msgstr "Özel"
+
+#: inc/customizer/configs/colors/class-inspiro-color-scheme-config.php:54
+msgid "Dark"
+msgstr "Koyu"
+
+#: inc/customizer/configs/colors/class-inspiro-color-scheme-config.php:53
+msgid "Light"
+msgstr "Açık renk"
+
+#: inc/customizer/configs/colors/class-inspiro-color-scheme-config.php:51
+msgid "Color Scheme"
+msgstr "Renk düzeni"
+
+#: inc/customizer/configs/logo/class-inspiro-custom-logo-text-config.php:40
+msgid "Custom Logo Text"
+msgstr "Özel logo metni"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-media-config.php:54
+msgid "Enter a YouTube or Vimeo URL:"
+msgstr "Bir YouTube veya Vimeo adresi girin:"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-media-config.php:53
+msgid "External Header Video"
+msgstr "Dış kaynaklı üst kısım videosu"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:100
+msgid "Enter a site description which appears in the header on front-page"
+msgstr "Ön sayfanın üst kısım bölümünde görüntülenecek bir site açıklaması girin"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:99
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-desc-config.php:85
+msgid "Header Description"
+msgstr "Üst kısım açıklaması"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:88
+msgid "Enter a site title which appears in the header on front-page"
+msgstr "Ön sayfanın üst kısım bölümünde görüntülenecek bir site başlığı girin"
+
+#: inc/customizer/configs/homepage-media/class-inspiro-homepage-media-content-config.php:87
+#: inc/customizer/configs/typography/class-inspiro-typo-hero-header-title-config.php:92
+msgid "Header Title"
+msgstr "Üst kısım başlığı"
+
+#: inc/classes/class-inspiro-after-setup-theme.php:109
+#: inc/customizer/configs/typography/class-inspiro-typo-main-menu-config.php:92
+#: inc/starter-content.php:178
+msgid "Main Menu"
+msgstr "Ana menü"
+
+#: inc/common-functions.php:351
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#: inc/common-functions.php:351
+msgid "Pingback:"
+msgstr "Geri bildirim:"
+
+#: inc/common-functions.php:337
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz denetim için bekliyor."
+
+#: inc/common-functions.php:329
+msgid "Edit"
+msgstr "Düzenle"
+
+#: inc/common-functions.php:323
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: inc/common-functions.php:157
+msgid "Widget area for \"Instagram widget by WPZOOM\"."
+msgstr "\"Instagram widget by WPZOOM\" bileşen alanı"
+
+#: inc/common-functions.php:155
+msgid "Footer Instagram Bar"
+msgstr "Alt kısım Instagram çubuğu"
+
+#: inc/common-functions.php:144
+msgid "Widget area in the header. Install the \"Social Icons Widget by WPZOOM\" plugin and add the widget here."
+msgstr "Üst kısım bileşen bölümü. \"Social Icons Widget by WPZOOM\" eklentisini kurup bileşeni buraya ekleyin."
+
+#: inc/common-functions.php:142
+msgid "Header Social Icons"
+msgstr "Üst kısım sosyal simgeleri"
+
+#: inc/common-functions.php:130
+msgid "Footer 4"
+msgstr "Alt kısım 4"
+
+#: inc/common-functions.php:118
+msgid "Footer 3"
+msgstr "Alt kısım 3"
+
+#: inc/common-functions.php:106
+msgid "Footer 2"
+msgstr "Alt kısım 2"
+
+#: inc/common-functions.php:96 inc/common-functions.php:108
+#: inc/common-functions.php:120 inc/common-functions.php:132
+msgid "Add widgets here to appear in your footer."
+msgstr "Alt alanda gözükmek üzere buraya bileşenler ekleyin."
+
+#: inc/common-functions.php:94
+msgid "Footer 1"
+msgstr "Alt kısım 1"
+
+#: inc/common-functions.php:84
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Blog yazıları ve arşiv sayfalarındaki yan menüde gösterilecek bileşenleri buraya ekleyin."
+
+#: inc/common-functions.php:82
+#: inc/customizer/configs/theme-layout/class-inspiro-theme-layout-config.php:32
+msgid "Blog Sidebar"
+msgstr "Blog yan menüsü"
+
+#: inc/common-functions.php:72
+msgid "Main sidebar that is displayed on the right and can be toggled by clicking on the menu icon."
+msgstr "Sağ tarafta gösterilen ana yan menü menü düğmesine tıklayarak açılıp kapatılabilir."
+
+#: inc/common-functions.php:70
+msgid "Sidebar"
+msgstr "Yan menü"
+
+#: comments.php:114
+msgid "Post Comment"
+msgstr "Yorum gönder"
+
+#: comments.php:113
+msgid "Cancel"
+msgstr "İptal"
+
+#: comments.php:112
+msgid "Leave a Comment"
+msgstr "Yorum yapın"
+
+#. translators: %1$s: admin url to profile %2$s: User identity %3$s: logout URL
+#: comments.php:111
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr "<a href=\"%1$s\">%2$s</a> olarak giriş yapıldı. <a href=\"%3$s\">Çıkış yap?</a>"
+
+#: comments.php:107
+msgid "Message:"
+msgstr "Mesaj:"
+
+#: comments.php:103
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "Bir dahaki sefere yorum yaptığımda kullanılmak üzere adımı, e-posta adresimi ve web site adresimi bu tarayıcıya kaydet."
+
+#: comments.php:99
+msgid "Website:"
+msgstr "Web sitesi:"
+
+#: comments.php:94
+msgid "Email Address:"
+msgstr "Eposta Adresi:"
+
+#: comments.php:88
+msgid "Name:"
+msgstr "İsim:"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:51
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Daha yeni yorumlar<span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:50
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Daha eski yorumlar"
+
+#: comments.php:30
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: comments.php:30
+msgid "One Comment"
+msgstr "Bir yorum"
+
+#: comments.php:30
+msgid "No Comments"
+msgstr "Yorum yok"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Görünüşe göre bu konumda bir şey bulunamadı. Arama yapmaya ne dersiniz?"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Tüh! Bu sayfa bulunamıyor."
+
+#. Template Name of the theme
+msgid "Homepage (Page Builder)"
+msgstr "Ana sayfa (Sayfa oluşturucu)"
+
+#. Template Name of the theme
+msgid "Page Builder (Transparent Header, Without Title)"
+msgstr "Sayfa oluşturucu (Şeffaf üst bilgi, başlıksız)"
+
+#. Template Name of the theme
+msgid "Full-width (Page Builder)"
+msgstr "Tam genişlik (Sayfa oluşturucu)"
+
+#. Template Name of the theme
+msgid "Page Builder (Without Page Title)"
+msgstr "Sayfa oluşturucu (sayfa başlığı olmadan)"
+
+#: search.php:55
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüm, aradığınız terimlerle eşleşen sonuç bulunamadı. Lütfen farklı anahtar kelimelerle tekrar deneyin."
+
+#. translators: Search query.
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "%s için arama sonuçları:"
+
+#: sidebar.php:27
+msgctxt "menu"
+msgid "Mobile Menu"
+msgstr "Mobil menü"
+
+#: sidebar.php:20
+msgid "Toggle navigation"
+msgstr "Dolaşımı aç/kapat"
+
+#: single.php:42
+msgid "Previous Post"
+msgstr "Önceki yazı"
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Ara"
+
+#: searchform.php:19
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Ara &hellip;"
+
+#: searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "Aranacak içerik:"
+
+#: template-parts/header/search-form.php:16
+msgid "Type your keywords and hit Enter..."
+msgstr "Anahtar kelimeleri yazın ve Enter tuşuna basın..."
+
+#: template-parts/header/search-form.php:15
+msgid "Search for:"
+msgstr "Aranacak içerik:"
+
+#: template-parts/header/header-image.php:20
+#: template-parts/header/header-image.php:21
+msgid "Scroll down to content"
+msgstr "İçerik için aşağıya kaydırın"
+
+#: template-parts/header/site-branding.php:29
+msgid "[Edit]"
+msgstr "[Düzenle]"
+
+#. translators: %s: Post title.
+#. translators: %s: Post title.
+#: inc/common-functions.php:185 template-parts/post/content.php:37
+msgid "Read more<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\"> \"%s\"</span>devamını oku"
+
+#. translators: %s: Post title.
+#. translators: %s: Post title.
+#. translators: %s: Post title.
+#. translators: %s: Post title.
+#: template-parts/post/content-audio.php:49
+#: template-parts/post/content-gallery.php:36
+#: template-parts/post/content-image.php:28
+#: template-parts/post/content-video.php:49
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr " <span class=\"screen-reader-text\"> \"%s\"</span> okumaya devam et"
+
+#: template-parts/post/content-none.php:35
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Görünüşe göre bu içeriği bulamadık. Arama yapmak işe yarayabilir."
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:29
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "İlk yazınızı yayımlamak için hazır mısınız? <a href=\"%s\">Buradan başlayın</a>"
+
+#: search.php:26 template-parts/post/content-none.php:18
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: template-parts/navigation/navigation-primary.php:50
+msgid "Toggle sidebar &amp; navigation"
+msgstr "Yan menü ve dolaşımı aç/kapat"
+
+#: template-parts/navigation/navigation-primary.php:25
+msgctxt "menu"
+msgid "Top Horizontal Menu"
+msgstr "Üst yatay menü"
+
+#: template-parts/page/content-page.php:63
+#: template-parts/post/content-audio.php:56
+#: template-parts/post/content-gallery.php:43
+#: template-parts/post/content-image.php:35
+#: template-parts/post/content-video.php:56 template-parts/post/content.php:44
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: template-parts/footer/site-info.php:28
+msgid "Inspiro WordPress Theme by"
+msgstr "Inspiro WordPress Teması geliştiricisi"
+
+#. translators: %s: WordPress trademark
+#: template-parts/footer/site-info.php:23
+msgid "Powered by %s"
+msgstr "%s gururla sunar"
+
+#: template-parts/footer/site-info.php:20
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/customizer/configs/footer/class-inspiro-footer-widget-areas-config.php:31
+#: template-parts/footer/footer-widgets.php:22
+msgid "Footer"
+msgstr "Dip"
+
+#. Author URI of the theme
+msgid "https://www.wpzoom.com/"
+msgstr "https://www.wpzoom.com/"
+
+#. Author of the theme
+msgid "WPZOOM"
+msgstr "WPZOOM"
+
+#. Theme URI of the theme
+msgid "https://www.wpzoom.com/free-wordpress-themes/inspiro-lite/"
+msgstr "https://www.wpzoom.com/free-wordpress-themes/inspiro-lite/"
